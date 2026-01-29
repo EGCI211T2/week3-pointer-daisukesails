@@ -1,5 +1,6 @@
 #include<iostream>
-int main(){
+int main()
+{
 int a;
   double d;
   cout<<&a<<" size "<<sizeof(a) <<endl;
